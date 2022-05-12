@@ -10,5 +10,5 @@ def fibonachi(n):
 while 1==1:
     n = int(input('Please enter int: '))
     start = time.time()
-    print (fibonachi(n))
+    print(fibonachi(n))
     print(time.time() - start)
