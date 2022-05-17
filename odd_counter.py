@@ -1,4 +1,4 @@
-def odd_count(lownum, highnum):
+def odd_count(lownum: int, highnum: int) -> int:
 
     num_list = []
     i = lownum
