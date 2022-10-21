@@ -22,3 +22,10 @@ list.append(0)
 list.append(1)
 print(list[0], list[1], list[2])
 print(list[3])
+
+#convert str to list
+slist = list(s)
+return slist
+#or
+for i in range(0, len(s)):
+    print(s[i])
